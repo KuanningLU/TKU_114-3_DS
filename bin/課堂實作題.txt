@@ -1,0 +1,7 @@
+請列出 7/8 AtmMenu.java 可以拆成哪些方法，至少寫出 4 個方法名稱
+
+printMenu()
+showBalance(int balance)
+deposit(Scanner sc, int balance)
+withdraw(Scanner sc, int balance)
+
